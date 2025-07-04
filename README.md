@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abhishek Kumar</h1>
-<h3 align="center">A tech enthusiast with a strong foundation in software engineering, web development, and Android app development. I love building efficient, user-friendly, and scalable applications using both frontend and backend technologies.</h3>
+<h3 align="center">A tech enthusiast with a strong foundation in Software Engineering, Web Development, and Android app development. I love building efficient, user-friendly, and scalable applications using both frontend and backend technologies.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mineabhii&label=Profile%20views&color=0e75b6&style=flat" alt="mineabhii" /> </p>
 
