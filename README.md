@@ -5,13 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mineabhii" alt="mineabhii" /></a> </p>
 
-- 🔭 I’m currently working on **Technical Support Engineer @mSELL**
-
 - 🌱 I’m currently learning **React.js, Node.js, Next.js JavaScript Libraries.**
 
 - 👯 I’m looking to collaborate on **👨‍💻 Software | Web | Android Development**
 
-- 🤝 I’m looking for help with **DevOps**
+- 🤝 I’m looking for help with **DevOps** & **AWS**
 
 - 💬 Ask me about **AI-ML**
 
