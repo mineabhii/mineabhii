@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React.js, Node.js, Next.js JavaScript Libraries.**
 
-- 👯 I’m looking to collaborate on **👨‍💻 Software | Web | Android Development**
+- 👯 I’m looking to collaborate on **👨‍💻 Software | Web | Android Development | Data Science & Analytics**
 
 - 🤝 I’m looking for help with **DevOps** & **AWS**
 
